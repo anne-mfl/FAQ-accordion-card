@@ -125,20 +125,3 @@ p {
   overflow: hidden;
   margin-top: -12px;
 }
-
-.attribution {
-  position: absolute;
-  bottom: 10px;
-  text-align: center;
-  width: 100%;
-  line-height: 16px;
-  font-size: 16px;
-  color: white;
-  font-weight: 400;
-}
-
-.attribution a {
-  text-decoration: none;
-  font-weight: 700;
-  color: white;
-}
